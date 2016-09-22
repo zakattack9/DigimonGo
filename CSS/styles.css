@@ -1,0 +1,24 @@
+.logo {
+  margin-left: 80px;
+  margin-top: 15px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.digimon {
+  margin-left: 10px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.navigation {
+  float: right;
+  text-align: center;
+  list-style: none;
+  margin-right: 80px
+}
+
+li {
+  display: inline-block;
+  margin: 25px 10px;
+}
