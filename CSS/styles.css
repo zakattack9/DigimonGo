@@ -1,6 +1,7 @@
 @font-face {
-  font-family: Silom;
-  src: url("Silom.ttf");
+  font-family: 'Silom';
+  src: url("../fonts/Silom.ttf");
+  src: url("../fonts/silom_regular.ttf");
 }
 
 body {
@@ -26,6 +27,7 @@ header{
 }
 
 .clearfix:after {
+  
   visibility: hidden;
   display: block;
   font-size: 0;
@@ -46,7 +48,7 @@ nav ul li {
   display: inline-block;
   margin: 25px 15px;
   color: #487798;
-  font-family: Silom;
+  font-family: 'Silom';
 }
 
  nav ul li:hover {
