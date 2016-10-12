@@ -51,7 +51,7 @@ nav ul li {
   font-family: 'Silom';
 }
 
- nav ul li:hover {
+nav ul li:hover {
   color: #F2A335;
   border-bottom: 3px solid;
   padding-bottom: 15px;
